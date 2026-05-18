@@ -18,7 +18,6 @@ Este repositorio contiene el trabajo final integrador del curso de "Programació
 ## Archivos del Repositorio
 *   `Trabajo_integrador_final.ipynb`: Cuaderno principal con el código fuente en Python de los 3 ejercicios, visualizaciones y comentarios.
 *   `train.csv`: Dataset original con la información de los pasajeros del Titanic utilizado para el Ejercicio 4.
-*   `super_heroes.json`: Archivo generado automáticamente por el script como resultado del Ejercicio 3.
 
 ## Cómo visualizar el proyecto
 Para ver el código, la lógica de las clases y los gráficos, simplemente se hace clic en el archivo `.ipynb` dentro del repositorio. Alternativamente, se puede clonar el repositorio y ejecutarlo localmente utilizando Jupyter Notebook, Google Colab o Visual Studio Code.
