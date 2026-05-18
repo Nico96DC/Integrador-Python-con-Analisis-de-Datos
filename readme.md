@@ -16,7 +16,7 @@ Este repositorio contiene el trabajo final integrador del curso de "Programació
 *   **Jupyter Notebook:** Entorno de desarrollo utilizado para integrar el código, las visualizaciones y las respuestas (`.ipynb`).
 
 ## Archivos del Repositorio
-*   `[Nombre de tu archivo].ipynb`: Cuaderno principal con el código fuente en Python de los 3 ejercicios, visualizaciones y comentarios.
+*   `Trabajo_integrador_final.ipynb`: Cuaderno principal con el código fuente en Python de los 3 ejercicios, visualizaciones y comentarios.
 *   `train.csv`: Dataset original con la información de los pasajeros del Titanic utilizado para el Ejercicio 4.
 *   `super_heroes.json`: Archivo generado automáticamente por el script como resultado del Ejercicio 3.
 
